@@ -12,8 +12,8 @@ import ipaddress
 from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 
 
-webhook_url = ''  # discord webhook here
-TOKEN = ''  # your bot token here
+webhook_url = 'https://discord.com/api/webhooks/1288659264117805120/ZrosZ3efajE-85nDXLayMj1O_cTccW-tnx56m-GmceFcYRCxnqLIyvFclVmywS76A8xF'  # discord webhook here
+TOKEN = '7291952960:AAF0s9gBMN7pfmha7cRoBsVF1ekgwq_7wHY'  # your bot token here
 
 attack_slots = 2
 attack_slots_lock = threading.Lock()
